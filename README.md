@@ -1,1 +1,4 @@
-# spring-e-commerce
+# spring-e-commerc
+
+@component
+@qualifier
